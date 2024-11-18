@@ -21,7 +21,7 @@ author:
 description: >
   A site where I mostly talk about tabletop roleplaying games and video games.
   
-theme: minima #remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
