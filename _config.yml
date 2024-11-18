@@ -23,6 +23,9 @@ description: >
   
 theme: minima #remote_theme: jekyll/minima
 
+minima:
+  skin: dark
+
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
