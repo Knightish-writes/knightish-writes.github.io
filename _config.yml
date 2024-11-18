@@ -1,7 +1,7 @@
 # Where things are
 source              : .
 destination         : ./_site
-collections_dir     : .
+collections_dir     : _posts
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
 layouts_dir         : _layouts
 data_dir            : _data
@@ -28,7 +28,7 @@ minima:
 
 # Handling Reading
 safe                : false
-include             : [".htaccess"] ["_posts"]
+include             : [".htaccess"]
 exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
 keep_files          : [".git", ".svn"]
 encoding            : "utf-8"
