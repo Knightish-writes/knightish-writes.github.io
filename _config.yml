@@ -43,7 +43,9 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : 
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Conversion
 markdown            : kramdown
