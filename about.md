@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 # Site
 
 This site is powered by [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
