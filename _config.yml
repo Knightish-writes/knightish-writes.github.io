@@ -11,6 +11,15 @@ sass:
 collections:
   posts:
     output          : true
+
+# Theme controls
+title: Knightish Writes
+author:
+  name: Knightish
+
+description: >
+  A site where I mostly talk about tabletop roleplaying games and video games.
+  
 theme: minima #remote_theme: jekyll/minima
 
 # Handling Reading
