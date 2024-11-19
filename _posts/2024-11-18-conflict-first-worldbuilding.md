@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Conflict First Wold Building"
+title: "Conflict First World Building"
 ---
 
 When discussing world building online, I think a lot of the advice is a bit myopic for Game Masters. While I do think it’s interesting to think about the way your magic system works or how your governments are structured, I think these don’t do anything for your players. Having a good base of knowledge about how your world works is useful; however, constantly building new gods that your players don’t care about can lead to GM burnout due to the amount of work you’re putting in with little to no return. When we think about ways we can engage our players, the first thing we should be thinking of is the main method they can interact with the world. For TTRPGs that is almost always the conflict of your setting. From that conflict, you can then start to build the world out from that.
