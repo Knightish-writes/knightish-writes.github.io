@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Bluesky Integration
+layout: base
 permalink: /.well-known/atproto-did
 ---
 
